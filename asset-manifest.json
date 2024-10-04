@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.fbc00891.css",
-    "main.js": "/static/js/main.aa114767.js",
-    "index.html": "/index.html"
+    "main.css": "/cooperspalmer/static/css/main.fbc00891.css",
+    "main.js": "/cooperspalmer/static/js/main.8ac7793d.js",
+    "index.html": "/cooperspalmer/index.html"
   },
   "entrypoints": [
     "static/css/main.fbc00891.css",
-    "static/js/main.aa114767.js"
+    "static/js/main.8ac7793d.js"
   ]
 }
