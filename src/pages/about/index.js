@@ -57,7 +57,7 @@ export const About = () => {
         </Row>
         <Row className="sec_sp">
           <Col lg="5">
-            <h3 className="color_sec py-4">Skills</h3>
+            <h3 className="color_sec py-4">Skills, 99% becuase nobody's perfect</h3>
           </Col>
           <Col lg="7">
             {skills.map((data, i) => {
@@ -81,7 +81,7 @@ export const About = () => {
         </Row>
         <Row className="sec_sp">
           <Col lang="5">
-            <h3 className="color_sec py-4">services</h3>
+            <h3 className="color_sec py-4">Services</h3>
           </Col>
           <Col lg="7">
             {services.map((data, i) => {
@@ -89,6 +89,9 @@ export const About = () => {
                 <div className="service_ py-4" key={i}>
                   <h5 className="service__title">{data.title}</h5>
                   <p className="service_desc">{data.description}</p>
+                  {data.link && (
+                     <a href={data.link} target="_blank" rel="noopener noreferrer"> Joshua Zeiler's Work </a>
+  )}
                 </div>
               );
             })}
