@@ -9,10 +9,10 @@ const introdata = {
     animated: {
         first: "let's chat",
         second: "if you want a cool site",
-        third: ":)",
+        third: "hi",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://drive.google.com/uc?export=view&id=1qxnzanA4qthz9MiEWQ192Q3OuXCOwuLg",
 };
 
 const dataabout = {
@@ -136,8 +136,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "23graciela.garcia@gmail.com",
+    YOUR_FONE: "(509) 5312239",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
