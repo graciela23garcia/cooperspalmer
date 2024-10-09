@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/cooperspalmer/static/css/main.fbc00891.css",
-    "main.js": "/cooperspalmer/static/js/main.8ac7793d.js",
-    "index.html": "/cooperspalmer/index.html"
-  },
-  "entrypoints": [
-    "static/css/main.fbc00891.css",
-    "static/js/main.8ac7793d.js"
-  ]
+    "main.css": "/cooperspalmer/static/css/main.38a4c9c3.chunk.css",
+    "main.js": "/cooperspalmer/static/js/main.98ec7b01.chunk.js",
+    "runtime~main.js": "/cooperspalmer/static/js/runtime~main.66bda6c6.js",
+    "static/css/2.27d55f80.chunk.css": "/cooperspalmer/static/css/2.27d55f80.chunk.css",
+    "static/js/2.08ee7934.chunk.js": "/cooperspalmer/static/js/2.08ee7934.chunk.js",
+    "index.html": "/cooperspalmer/index.html",
+    "precache-manifest.64282a3c306aba81f3fb2e81a7299a0e.js": "/cooperspalmer/precache-manifest.64282a3c306aba81f3fb2e81a7299a0e.js",
+    "service-worker.js": "/cooperspalmer/service-worker.js"
+  }
 }
